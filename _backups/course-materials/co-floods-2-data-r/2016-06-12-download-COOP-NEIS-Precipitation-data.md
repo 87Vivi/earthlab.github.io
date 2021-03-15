@@ -24,7 +24,7 @@ can be used with the
 <div id="objectives" markdown="1">
 
 ### Learning Objectives
-After completing this tutorial, you will be able to:
+**After completing this tutorial, you will be able to:**
 
 * Download precipitation data from
 <a href="http://www.ncdc.noaa.gov/" target="_blank">NOAA's National Centers for Environmental Information</a>.
@@ -34,8 +34,8 @@ After completing this tutorial, you will be able to:
 * Set a NoData Value to NA in R (if completing Additional Resources code).
 
 ### Things You'll Need To Complete This Lesson
-Please be sure you have the most current version of R and, preferably,
-RStudio to write your code.
+*Please be sure you have the most current version of R and, preferably,
+RStudio to write your code*.
 
  **R Skill Level:** Intermediate - To succeed in this tutorial, you will need to
 have basic knowledge for use of the R software program.
@@ -66,8 +66,8 @@ accordingly.
 </div>
 
 ## Research Question
-What were the patterns of precipitation leading up to the 2013 flooding events
-in Colorado?
+***What were the patterns of precipitation leading up to the 2013 flooding events
+in Colorado?***
 
 ## Precipitation Data
 The heavy **precipitation (rain)** that occurred in September 2013 caused much
